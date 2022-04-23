@@ -1,0 +1,25 @@
+{
+  "options": [
+    {
+      "value": "满减优惠",
+      "label": "满减优惠"
+    },
+    {
+      "value": "优惠大酬宾",
+      "label": "优惠大酬宾"
+    },
+    {
+      "value": "新用户立减",
+      "label": "新用户立减"
+    },
+    {
+      "value": "进店领券",
+      "label": "进店领券"
+    }
+  ],
+  "defaultActivity": {
+    "icon_name": "减",
+    "name": "满减优惠",
+    "description": "满30减5，满60减8"
+  }
+}
